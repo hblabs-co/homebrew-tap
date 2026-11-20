@@ -1,6 +1,7 @@
 # HB Labs SAS Homebrew tap
 
 ```sh
+brew trust --cask hblabs-co/tap/freeroom   # Homebrew asks you to trust third-party casks once
 brew install --cask hblabs-co/tap/freeroom
 ```
 
