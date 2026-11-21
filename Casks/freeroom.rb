@@ -1,6 +1,6 @@
 cask "freeroom" do
-  version "0.1.0"
-  sha256 "47027629c478ad01865f6db32fab6db2306b74c56c9dae09e793231cc276b37c"
+  version "0.1.1"
+  sha256 "9ded2241feb346b602b4efdc06026a0392e785be700a0d526388d685d02a1068"
 
   url "https://github.com/hblabs-co/freeroom/releases/download/v#{version}/Freeroom-#{version}.dmg"
   name "Freeroom"
