@@ -5,7 +5,7 @@ cask "freeroom" do
   url "https://github.com/hblabs-co/freeroom/releases/download/v#{version}/Freeroom-#{version}.dmg"
   name "Freeroom"
   desc "Free up disk space on macOS with an agent that understands what it is deleting"
-  homepage "https://github.com/hblabs-co/freeroom"
+  homepage "https://freeroom.hblabs.co"
 
   depends_on macos: ">= :sequoia"
 
